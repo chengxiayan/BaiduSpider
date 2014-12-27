@@ -13,7 +13,7 @@ import urllib
 class BdSpider(BaseSpider):
 	name="baidu"
 	usrname="395318621@qq.com"
-	passwd="cxy64725032425"
+	passwd="cxy*****"
 	usrnick="c395318621"
 	allowed_domains = ['baidu.com']
 	logined=False
